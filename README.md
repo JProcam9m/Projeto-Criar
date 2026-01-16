@@ -1,7 +1,7 @@
 # Projeto-Criar
 
 ## Exercícios de Lógica com Python 🐍
-Este repositório contém uma série de resoluções de problemas de lógica de programação desenvolvidos como parte de um teste técnico/desafio para a CRIAR TECNOLOGIA. O objetivo principal é demonstrar competência em estruturas de repetição, condicionais, manipulação de strings e funções em Python.
+Este repositório contém uma série de resoluções de problemas de lógica de programação desenvolvidos como parte de um teste técnico/desafio para a CRIAR TECNOLOGIA. O objetivo principal é demonstrar a minha competência em estruturas de repetição, condicionais, manipulação de strings e funções em Python.
 
 ## 🚀 Tecnologias Utilizadas
 Linguagem: Python 3.x
