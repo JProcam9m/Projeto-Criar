@@ -21,8 +21,7 @@ while True:
     try:
         entrada = input('\nDigite um número inteiro (ou a letra S para sair): ').strip()
         
-        # O startswith deve ser usado na string, e não no resultado booleano.
-        # Usamos .lower() na entrada para aceitar tanto 's' quanto 'S'.
+       
         if entrada.lower().startswith("s"):
             print("Saindo...")
             break
